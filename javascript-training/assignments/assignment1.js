@@ -64,3 +64,4 @@ console.log("Person's birthplace: " + personBirthPlace);
 let distanceBetweenTwoCities = 200.5;
 console.log("Distance between two cities: " + distanceBetweenTwoCities);
 
+console.log("All 20 rows fetched and printed successfully")
